@@ -1,4 +1,4 @@
-package pkg
+package xdb
 
 import "go.uber.org/zap"
 

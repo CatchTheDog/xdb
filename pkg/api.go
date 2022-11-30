@@ -1,4 +1,4 @@
-package pkg
+package xdb
 
 import (
 	"fmt"
@@ -116,6 +116,6 @@ func Close() {
 	// 执行Sync刷盘
 	Sync()
 	// 退出
-	slogger.Infoln("db engine will exit.")
+	slogger.Infoln("db xdb will exit.")
 	os.Exit(0)
 }
