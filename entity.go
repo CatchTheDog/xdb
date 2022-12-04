@@ -1,4 +1,4 @@
-package xdb
+package main
 
 // val 内嵌最小共用字段
 type val struct {

@@ -1,4 +1,4 @@
-package xdb
+package main
 
 import "time"
 
