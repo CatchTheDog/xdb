@@ -1,4 +1,4 @@
-module github.com/CatchTheDog/xdb
+module github.com/CatchTheDog/xdb/v2
 
 go 1.19
 
